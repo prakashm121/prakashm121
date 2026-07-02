@@ -13,7 +13,7 @@ I'm a Computer Science student passionate about backend engineering and AI. I en
 
 
 
-# 💻 Coding Profiles
+### 💻 Coding Profiles
 
 <p align="left">
 
@@ -29,9 +29,9 @@ I'm a Computer Science student passionate about backend engineering and AI. I en
 
 
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,13 +40,13 @@ I'm a Computer Science student passionate about backend engineering and AI. I en
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-## 🌐 Frontend
+### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -54,20 +54,20 @@ I'm a Computer Science student passionate about backend engineering and AI. I en
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-## ☁️ Deployment Platforms
+### ☁️ Deployment Platforms
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-# 📚 Currently Learning
+### 📚 Currently Learning
 
 - 🏛️ System Design
 - 🌐 Distributed Systems
@@ -76,7 +76,7 @@ I'm a Computer Science student passionate about backend engineering and AI. I en
 - 📈 Performance Optimization
 
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
