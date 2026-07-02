@@ -5,7 +5,6 @@
 
 I'm a Computer Science student passionate about backend engineering and AI. I enjoy building scalable web applications and backend systems while continuously strengthening my skills in Data Structures & Algorithms, system design, distributed systems, and software architecture.
 
-- 🚀 Building **Blueprint**, an AI-powered placement preparation platform
 - ⚡ Developing scalable backend services with **FastAPI**
 - 🏗️ Learning **System Design**, **Distributed Systems**, and **Software Architecture**
 - 📚 Exploring backend engineering through real-world projects
