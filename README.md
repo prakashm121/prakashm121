@@ -13,9 +13,24 @@ I'm a Computer Science student passionate about backend engineering and AI. I en
 - 📫 Reach me at **pmandi361@gmail.com**
 
 
+
+# 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/prakash_mandi_21/">
+  <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/Prakashmandi" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</p>
+
+
+
 ## 🛠️ Tech Stack
-
-
 
 ## 💻 Languages
 
