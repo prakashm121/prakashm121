@@ -1,90 +1,72 @@
+# Hi, I'm Prakash 👋
 
-# Hi, I'm Prakash👋
+**CS undergrad @ IIIT Kottayam · Class of 2028**
 
-### Computer Science Student • Aspiring Software Engineer
+---
 
-I'm a Computer Science student passionate about backend engineering and AI. I enjoy building scalable web applications and backend systems while continuously strengthening my skills in Data Structures & Algorithms, system design, distributed systems, and software architecture.
+I like understanding how things work under the hood — why a database query is slow, how an async task queue actually moves work off the main thread, what happens when an AI model call times out mid-request. That curiosity is what pushes me toward backend systems and infrastructure rather than just shipping features.
 
-- ⚡ Developing scalable backend services with **FastAPI**
-- 🏗️ Learning **System Design**, **Distributed Systems**, and **Software Architecture**
-- 📚 Exploring backend engineering through real-world projects
-- 💼 Open to Software Engineering Internship Opportunities
-- 📫 Reach me at **pmandi361@gmail.com**
+Right now I'm focused on:
 
+- 🔧 **Backend engineering** — clean architecture, layered services, async processing
+- 🧠 **AI integration** — not just calling APIs, but building the infrastructure around them (gateways, fallback chains, structured output validation)
+- 📊 **Data engineering** — ETL pipelines, schema design, making messy data usable
+- 🌐 **Distributed systems** — learning how real systems handle scale, failure, and consistency
+- ⚡ **DSA** — consistent problem solving on LeetCode (~1700 rating, 250+ solved)
 
+---
 
-### 💻 Coding Profiles
+### 🏗️ What I've Built
 
-<p align="left">
+| Project | Stack | What it does |
+|---|---|---|
+| [Blueprint](https://github.com/prakashm121/Blueprint.git) | FastAPI · React · PostgreSQL · Redis · Celery · Gemini | Full-stack AI placement prep platform — 43K+ resources, async AI pipeline, SSE streaming |
+| [Blueprint ETL](https://github.com/prakashm121/blueprint-data-processing.git) | Python · Pandas · OpenPyXL | Data pipeline — 34,700+ records from 10+ sources, automated deduplication |
+| [TradeSphere](https://github.com/prakashm121/TradeSphere.git) | FastAPI · React · PostgreSQL · JWT | Stock portfolio management with layered backend architecture |
 
-<a href="https://leetcode.com/u/prakash_mandi_21/">
-  <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+---
 
-<a href="https://codeforces.com/profile/Prakashmandi" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-</p>
-
-
-
-### 🛠️ Tech Stack
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-
-### ⚙️ Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-
-### ☁️ Deployment Platforms
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-##  Interested In
-
-• Backend Engineering
-• Distributed Systems
-• Software Architecture
-• Databases
-• AI Infrastructure
-
-## 🌐 Connect With Me
+### 📊 GitHub Stats
 
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashmandi21)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/prakash_mandi_21)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pmandi361@gmail.com)
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prakashm121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashm121&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🛠️ Tech I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 🏆 Achievements
+
+- **AlgoUniversity Tech Fellowship 2025** — Top 20,000 out of 250,000+ applicants (Top 8%)
+- **LeetCode** — 250+ problems solved · Contest rating ~1700
+- **Smart India Hackathon 2025** — College round participant
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashmandi21)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pmandi361@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/prakash_mandi_21/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Prakashmandi)
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
