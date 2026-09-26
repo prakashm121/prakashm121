@@ -26,15 +26,6 @@ Right now I'm focused on:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prakashm121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashm121&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 **💻 Languages**
